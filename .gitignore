@@ -1,0 +1,7 @@
+# In case some get written during testing.
+*.png
+!manduco_the_ripper.png
+
+# No need to ship the executables.
+client/client
+server/server
